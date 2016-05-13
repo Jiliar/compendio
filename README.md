@@ -8,6 +8,11 @@ Para cada uno de los ejemplos en este compendio, se tratará de agregar una liga
 <br><br>
 Este repositorio se actualizará en medida de lo posible y está abierto a colaboradores; y contendrá un listado por medio de este documento para su referencia.
 
+## Actualización 13 Mayo 2016 - Paginador Javascript
+Liga a datos del plugin: https://github.com/neobenjax/compendio/tree/master/ejemplos/alertasfancybox
+<br>
+Liga del demo: http://neobenjax.github.io/compendio/ejemplos/alertasfancybox/
+
 ## Actualización 05 Mayo 2016 - Paginador Javascript
 Liga a datos del plugin: https://github.com/neobenjax/compendio/tree/master/ejemplos/paginador
 <br>
